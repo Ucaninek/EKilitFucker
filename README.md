@@ -1,3 +1,5 @@
+mehcan abi lutfen beni dava etme🥺🥺 
+   
 # EkilitFucker
 EKilitFucker (as the harsh name suggests) is an app that uninstalls E-Kilit without any trace it ever existed.
 it can detect the install path and the alias name automatically.
@@ -15,5 +17,3 @@ E-Kilit is a software made by (MehCan)[https://mehcan.net/] designed to "prolong
 7. when the user logs back in immediately turn UAC back on and remove the task scheduler entry.
 8. since E-Kilit is not running we are free to delete every goddamn file it has created. so we do just that 😯.
 9. Voila! E-Kilit is no more!! you now can enjoy infinite amounts of boykisser pics on your school devices!!
-
-   mehcan abi lutfen beni dava etme🥺🥺 
