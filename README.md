@@ -1,4 +1,5 @@
 mehcan abi lutfen beni dava etme🥺🥺 
+⭐ _plz star this project if it was useful to you uwu_ ⭐
    
 # EKilitFucker
 EKilitFucker (as the harsh name suggests) is an app that uninstalls E-Kilit without any trace it ever existed.
