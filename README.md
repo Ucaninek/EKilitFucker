@@ -1,6 +1,6 @@
 mehcan abi lutfen beni dava etme🥺🥺 
    
-# EkilitFucker
+# EKilitFucker
 EKilitFucker (as the harsh name suggests) is an app that uninstalls E-Kilit without any trace it ever existed.
 it can detect the install path and the alias name automatically.
 
