@@ -125,7 +125,7 @@ namespace EKilitFucker
                 string phaseOnePath = Path.Combine(Path.GetDirectoryName(Application.ExecutablePath), "phase_one_completed");
                 bool isPhaseOneCompleted = File.Exists(phaseOnePath);
 
-                if (isPhaseOneCompleted)
+                if (!isPhaseOneCompleted)
                 {
                     Log($"Found EKilit Alias {EKilitAlias}");
                     //dumpSvcInfo(serviceName);
