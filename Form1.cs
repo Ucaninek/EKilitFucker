@@ -32,7 +32,7 @@ namespace EKilitFucker
         {
             try
             {
-                Log("Starting removal :o");
+                Log("### Starting removal :o ###");
                 Log("Locating EKilit Service..");
                 await System.Threading.Tasks.Task.Run(LocateAndStopEKilit).ContinueWith((t) =>
                 {
